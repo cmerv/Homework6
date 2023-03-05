@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CIDM2315_Homework6/1.0.0": {
+        "runtime": {
+          "CIDM2315_Homework6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIDM2315_Homework6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

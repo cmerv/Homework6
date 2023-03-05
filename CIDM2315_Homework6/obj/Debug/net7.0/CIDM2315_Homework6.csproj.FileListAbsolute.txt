@@ -1,0 +1,15 @@
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\bin\Debug\net7.0\CIDM2315_Homework6.exe
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\bin\Debug\net7.0\CIDM2315_Homework6.deps.json
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\bin\Debug\net7.0\CIDM2315_Homework6.runtimeconfig.json
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\bin\Debug\net7.0\CIDM2315_Homework6.dll
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\bin\Debug\net7.0\CIDM2315_Homework6.pdb
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.csproj.AssemblyReference.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.AssemblyInfoInputs.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.AssemblyInfo.cs
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.dll
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\refint\CIDM2315_Homework6.dll
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.pdb
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\CIDM2315_Homework6.genruntimeconfig.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\_School\Spring2023\CIDM 2315\Programs\Homework6\CIDM2315_Homework6\obj\Debug\net7.0\ref\CIDM2315_Homework6.dll
